@@ -7,6 +7,7 @@ const Contact = () => {
     return(
         <>
          <Box  sx={{width:320 , }}>
+            
          </Box>
         </>
     )
