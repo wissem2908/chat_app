@@ -30,7 +30,7 @@ const Conversation = () => {
 
             }} >
 
-                <Message/>
+                <Message menu={true}/>
 
 
             </Box>
